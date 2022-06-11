@@ -60,6 +60,12 @@ body {
     stroke-dashoffset: 600;
     animation: line-anm 2s ease forwards 1800ms;
 }
+    
+.logo path:nth-child(8) {
+    stroke-dasharray: 600;
+    stroke-dashoffset: 600;
+    animation: line-anm 2s ease forwards 1800ms;
+}
 
 @keyframes line-anm {
     to {
@@ -72,7 +78,7 @@ body {
         fill: transparent;
     }
     to {
-        fill: white;
+        fill: pink;
     }
 }
 </style>
