@@ -1,4 +1,4 @@
-<svg id="logo" class="logo" width="581" height="35" viewBox="0 0 581 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg id="logo" class="logo" width="531" height="35" viewBox="0 0 531 35" fill="none" xmlns="http://www.w3.org/2000/svg">
 <style>
 * {
     margin: 0;
@@ -81,39 +81,39 @@ body {
 .logo path:nth-child(11) {
     stroke-dasharray: 600;
     stroke-dashoffset: 600;
-    animation: line-anm 2s ease forwards 900ms;
+    animation: line-anm 2s ease forwards 600ms;
 }
 
 .logo path:nth-child(12) {
     stroke-dasharray: 600;
     stroke-dashoffset: 600;
-    animation: line-anm 2s ease forwards 1200ms;
+    animation: line-anm 2s ease forwards 900ms;
 }
 
 
 .logo path:nth-child(13) {
     stroke-dasharray: 600;
     stroke-dashoffset: 600;
-    animation: line-anm 2s ease forwards 1500ms;
+    animation: line-anm 2s ease forwards 1200ms;
 }
 
 .logo path:nth-child(14) {
     stroke-dasharray: 600;
     stroke-dashoffset: 600;
-    animation: line-anm 2s ease forwards 1800ms;
+    animation: line-anm 2s ease forwards 1500ms;
 }
 
 
 .logo path:nth-child(15) {
     stroke-dasharray: 600;
     stroke-dashoffset: 600;
-    animation: line-anm 2s ease forwards 2100ms;
+    animation: line-anm 2s ease forwards 1800ms;
 }
 
 .logo path:nth-child(16) {
     stroke-dasharray: 600;
     stroke-dashoffset: 600;
-    animation: line-anm 2s ease forwards 2400ms;
+    animation: line-anm 2s ease forwards 2100ms;
 }
 
 
