@@ -15,7 +15,7 @@ body {
     top: 50%;
     left: 55%;
     transform: translate(-50%, -50%);
-    animation: fill-anm 500ms ease forwards 3300ms;
+    animation: fill-anm 500ms ease forwards 3500ms;
 }
 
 .logo path:nth-child(1) {
@@ -81,7 +81,7 @@ body {
 .logo path:nth-child(11) {
     stroke-dasharray: 600;
     stroke-dashoffset: 600;
-    animation: line-anm 2s ease forwards 3000ms;
+    animation: line-anm 2s ease forwards 3200ms;
 }
 
 
