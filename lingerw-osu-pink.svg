@@ -15,7 +15,7 @@ body {
     top: 50%;
     left: 55%;
     transform: translate(-50%, -50%);
-    animation: fill-anm 500ms ease forwards 3500ms;
+    animation: fill-anm 500ms ease forwards 3600ms;
 }
 
 .logo path:nth-child(1) {
