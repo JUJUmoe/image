@@ -19,69 +19,69 @@ body {
 }
 
 .logo path:nth-child(1) {
-    stroke-dasharray: 600;
-    stroke-dashoffset: 600;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
     animation: line-anm 3s ease forwards;
 }
 
 .logo path:nth-child(2) {
-    stroke-dasharray: 600;
-    stroke-dashoffset: 600;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
     animation: line-anm 3s ease forwards 300ms;
 }
 
 .logo path:nth-child(3) {
-    stroke-dasharray: 600;
-    stroke-dashoffset: 600;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
     animation: line-anm 3s ease forwards 600ms;
 }
 
 .logo path:nth-child(4) {
-    stroke-dasharray: 600;
-    stroke-dashoffset: 600;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
     animation: line-anm 3s ease forwards 900ms;
 }
 
 .logo path:nth-child(5) {
-    stroke-dasharray: 600;
-    stroke-dashoffset: 600;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
     animation: line-anm 3s ease forwards 1200ms;
 }
 
 .logo path:nth-child(6) {
-    stroke-dasharray: 600;
-    stroke-dashoffset: 600;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
     animation: line-anm 3s ease forwards 1500ms;
 }
 
 .logo path:nth-child(7) {
-    stroke-dasharray: 600;
-    stroke-dashoffset: 600;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
     animation: line-anm 3s ease forwards 1800ms;
 }
     
 .logo path:nth-child(8) {
-    stroke-dasharray: 600;
-    stroke-dashoffset: 600;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
     animation: line-anm 3s ease forwards 2100ms;
 }
 
 .logo path:nth-child(9) {
-    stroke-dasharray: 600;
-    stroke-dashoffset: 600;
-    animation: line-anm 2s ease forwards 2400ms;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    animation: line-anm 3s ease forwards 2400ms;
 }
 
 .logo path:nth-child(10) {
-    stroke-dasharray: 600;
-    stroke-dashoffset: 600;
-    animation: line-anm 2s ease forwards 2700ms;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    animation: line-anm 3s ease forwards 2700ms;
 }
 
 .logo path:nth-child(11) {
-    stroke-dasharray: 600;
-    stroke-dashoffset: 600;
-    animation: line-anm 2s ease forwards 3200ms;
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    animation: line-anm 3s ease forwards 3200ms;
 }
 
 
