@@ -81,7 +81,13 @@ body {
 .logo path:nth-child(11) {
     stroke-dasharray: 1000;
     stroke-dashoffset: 1000;
-    animation: line-anm 3s ease forwards 3200ms;
+    animation: line-anm 3s ease forwards 3000ms;
+}
+
+.logo path:nth-child(12) {
+    stroke-dasharray: 1000;
+    stroke-dashoffset: 1000;
+    animation: line-anm 3s ease forwards 3300ms;
 }
 
 
