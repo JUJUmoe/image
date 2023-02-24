@@ -1,4 +1,4 @@
-<svg id="logo" class="logo" width="670" height="240" viewBox="-50 -50 770 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg id="logo" class="logo" width="570" height="240" viewBox="-50 -50 770 200" fill="none" xmlns="http://www.w3.org/2000/svg">
 
 <style>
 * {
@@ -16,7 +16,7 @@ body {
     top: 50%;
     left: 55%;
     transform: translate(-50%, -50%);
-    animation: fill-anm 500ms ease forwards 4000ms;
+    animation: fill-anm 500ms ease forwards 3100ms;
 }
 
 .logo path:nth-child(1) {
@@ -79,23 +79,6 @@ body {
     animation: line-anm 2s ease forwards 2600ms;
 }
 
-.logo path:nth-child(11) {
-    stroke-dasharray: 600;
-    stroke-dashoffset: 600;
-    animation: line-anm 2s ease forwards 3000ms;
-}
-
-.logo path:nth-child(12) {
-    stroke-dasharray: 600;
-    stroke-dashoffset: 600;
-    animation: line-anm 2s ease forwards 3300ms;
-}
-
-.logo path:nth-child(13) {
-    stroke-dasharray: 800;
-    stroke-dashoffset: 800;
-    animation: line-anm 2s ease forwards 3600ms;
-}
 
 @keyframes line-anm {
     to {
